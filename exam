@@ -47,21 +47,21 @@
   },
   {
     "id": 211,
-    "name": "El Union",
-    "imageUrl": "http://www.weekendsidetrip.com/wp-content/uploads/2016/11/1478164962927-800x445.jpg",
-    "price": 15,
+    "name": "Zoobic Safari",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/20943.jpg",
+    "price": 780,
     "priceCurrency": "Php",
-    "lat": 16.659886,
-    "lng": 120.322376
+    "lat": 14.750949,
+    "lng": 120.266845
   },
    {
     "id": 212,
-    "name": "Thunderbird Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/26/b7/ea/thunderbird-resorts-poro.jpg",
-    "price": 50,
+    "name": "Bangui Windmills",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2010/08/Ilocos-Windmills.jpg",
+    "price": 689,
     "priceCurrency": "Php",
-    "lat": 16.609236,
-    "lng": 120.286314
+    "lat": 18.528876,
+    "lng": 120.718110
   },
    {
     "id": 213,

@@ -10,12 +10,13 @@
   },
   {
     "id": 148,
-    "name": "Tangadan Falls",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/TangadanFalls_00.jpg",
-    "price": 35,
+    "name": "Amanpulo",
+    "imageUrl": "http://www.miamishoot.com/wp-content/uploads/2014/07/RS132_Amanpulo-Swimming-Pool-Night-720x375.jpg",
+    "price": 20,000,
     "priceCurrency": "Php",
-    "lat": 16.643866,
-    "lng": 120.448737
+    "lat": 11.353009,
+    "lng": 120.731269
+    
   },
   {
     "id": 201,

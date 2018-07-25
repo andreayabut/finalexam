@@ -20,12 +20,12 @@
   },
   {
     "id": 201,
-    "name": "Pebble Beach",
-    "imageUrl": "http://tupanggala.com/wp-content/uploads/2014/08/LunaBeach02.jpg",
-    "price": 25,
+    "name": "Sunflower Maze",
+    "imageUrl": "http://bluedreamer27.com/wp-content/uploads/2017/06/34138295740_703c84397a_ot-1.jpg",
+    "price": 550,
     "priceCurrency": "Php",
-    "lat": 16.839470,
-    "lng": 120.338160
+    "lat": 15.973622,
+    "lng": 120.757972
   },
   {
     "id": 205,

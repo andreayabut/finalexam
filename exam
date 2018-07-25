@@ -29,22 +29,21 @@
   },
   {
     "id": 205,
-    "name": "St. Catherine of Alexandria Parish, The Shrine of Our Lady of Namacpacan",
-    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_luna_church_betty_tianco.jpg",
-    "price": 30,
+    "name": "Intramuros",
+    "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/manila/manila-intramuros/allParagraphs/BucketComponent/ListingContainer/03/image/manila-cathedral-night.jpg",
+    "price": 350,
     "priceCurrency": "Php",
-    "lat": 16.853622,
-    "lng": 120.376583
-     
+    "lat": 14.590005,
+    "lng": 120.974675
   },
   {
     "id": 210,
-    "name": "Immuki Island",
-    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
-    "price": 30,
+    "name": "The Dessert Musuem",
+    "imageUrl": "https://i0.wp.com/advenshar.com/wp-content/uploads/2017/11/dessert-museum-e1518446709383.jpg?fit=2000%2C1333&ssl=1",
+    "price": 1,600,
     "priceCurrency": "Php",
-    "lat": 16.803158,
-    "lng": 120.325490
+    "lat": 14.531416,
+    "lng": 120.980683
   },
   {
     "id": 211,

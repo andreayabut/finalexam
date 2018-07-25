@@ -1,12 +1,12 @@
 [
 {
     "id": 145,
-    "name": "ElYu Surf Town",
-    "imageUrl": "https://jethrosalamo.files.wordpress.com/2018/02/img_3997.jpg?w=816",
-    "price": 15,
+    "name": "Aqua Planet",
+    "imageUrl": "https://i.ytimg.com/vi/JVzTKc32I-w/maxresdefault.jpg",
+    "price": 450,
     "priceCurrency": "Php",
-    "lat": 16.657892,
-    "lng": 120.320865
+    "lat": 15.187456,
+    "lng": 120.499217
   },
   {
     "id": 148,
